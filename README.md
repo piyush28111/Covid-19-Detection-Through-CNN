@@ -1,10 +1,6 @@
 # Infected-lungs-vs-Healthy-lungs-classification-via-CNN
 
-Dataset can be found at:
-for covid positive images - https://github.com/ieee8023/covid-chestxray-dataset
-for normal lung images - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-
-As a first step of data extraction and pre processing can be found in Data preprocessing.ipynb
+As a first step of data extraction and pre processing can be found in Data preprocessing.ipynb.
 
 After getting all the data I have divided myself the images in training and validation images in mounted drive. I have used the CNN layers with dense layers to make a model and used data augmentation for training images.
 
